@@ -1,9 +1,14 @@
 # Вездекод ML 20
+
+## before you start
+1. install pipenv
+
+
 ## install & run
 ```
 git clone git@github.com:ProtsenkoAI/vezdecode-img2latex.git
 cd vezdecode-img2latex/
-pip install -r requirements.txt
+pipenv install -r requirements.txt
 python3 ./main.py
 ```
 
