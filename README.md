@@ -9,6 +9,7 @@
 git clone git@github.com:ProtsenkoAI/vezdecode-img2latex.git
 cd vezdecode-img2latex/
 pipenv install -r requirements.txt
+pipenv shell
 python3 ./main.py
 ```
 
